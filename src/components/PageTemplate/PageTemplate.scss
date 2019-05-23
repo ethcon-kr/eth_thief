@@ -1,0 +1,18 @@
+
+*{
+  box-sizing: border-box;
+}
+
+#root{
+  padding-top: 40px;
+}
+
+.Leaderboard{
+    padding: 40px 20px;
+    margin: auto;
+    max-width: 800px;
+    height: 100%;
+
+    background: white;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
