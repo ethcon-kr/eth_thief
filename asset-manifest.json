@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/eth_thief/static/css/main.9d291421.chunk.css",
-    "main.js": "/eth_thief/static/js/main.b4d8763a.chunk.js",
-    "main.js.map": "/eth_thief/static/js/main.b4d8763a.chunk.js.map",
+    "main.js": "/eth_thief/static/js/main.fc551090.chunk.js",
+    "main.js.map": "/eth_thief/static/js/main.fc551090.chunk.js.map",
     "runtime~main.js": "/eth_thief/static/js/runtime~main.f5c44a0e.js",
     "runtime~main.js.map": "/eth_thief/static/js/runtime~main.f5c44a0e.js.map",
     "static/js/2.6249dea3.chunk.js": "/eth_thief/static/js/2.6249dea3.chunk.js",
     "static/js/2.6249dea3.chunk.js.map": "/eth_thief/static/js/2.6249dea3.chunk.js.map",
     "index.html": "/eth_thief/index.html",
-    "precache-manifest.37b0469da074627d6d15e885d81e1d35.js": "/eth_thief/precache-manifest.37b0469da074627d6d15e885d81e1d35.js",
+    "precache-manifest.14bbe5ec952b8d29736e19c3d9484fd4.js": "/eth_thief/precache-manifest.14bbe5ec952b8d29736e19c3d9484fd4.js",
     "service-worker.js": "/eth_thief/service-worker.js",
     "static/css/main.9d291421.chunk.css.map": "/eth_thief/static/css/main.9d291421.chunk.css.map"
   }
