@@ -3,36 +3,43 @@
   {
     "id" : 1,
     "address" : "0x437555efc2ced5b033e8d9d63fa1ea3d0adcf7bc",
-    "name" : "Team 1"
+    "name" : "Team 1",
+    "point" : "1"
   },
   {
     "id" : 2,
     "address" : "0x1dc5008f2d886b03f8363fdeed3bff34d4817db6",
-    "name" : "Team 2"
+    "name" : "Team 2",
+    "point" : "1"
   },
   {
     "id" : 3,
     "address" : "0x38041a15930ae576271e5cc38bef3456ec2a81cd",
-    "name" : "Team 3"
+    "name" : "Team 3",
+    "point" : "1"
   },
   {
     "id" : 4,
     "address" : "0xbb12213449f765a8031fce7c0fcf413144f54be2",
-    "name" : "Team 4"
+    "name" : "Team 4",
+    "point" : "1"
   },
   {
     "id" : 5,
     "address" : "0xd206bcd6416455ca0547aaf5c3defe1d5829586e",
-    "name" : "Team 5"
+    "name" : "Team 5",
+    "point" : "1"
   },
   {
     "id" : 6,
     "address" : "0xe62daf3462a796c3c19887951d8f554c23a428ae",
-    "name" : "Team 6"
+    "name" : "Team 6",
+    "point" : "1"
   },
   {
     "id" : 7,
     "address" : "0xdf0a8d1fd216ed77b020975236c4a11d777682a6",
-    "name" : "Team 7"
+    "name" : "Team 7",
+    "point" : "1"
   }
 ]
