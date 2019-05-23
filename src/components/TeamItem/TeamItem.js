@@ -36,7 +36,7 @@ class TeamItem extends Component {
           </div>
 
           <div className={cx('leader-content')}>
-            <div className={cx('leader-name')}>{children.rank}. {children.name}</div>
+            <div className={cx('leader-name')}>{children.rank}. {children.name} - {children.address}</div>
             <div className={cx('leader-score')}>{children.point} ETH</div>
           </div>
         </div>
